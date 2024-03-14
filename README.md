@@ -1,0 +1,2 @@
+# UploadedFairyNovel
+My novel website.
